@@ -1,11 +1,669 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ravi Sardhara</title>
-</head>
-<body>
+    <title>Coming Soon | Ravi Sardhara</title>
+    <meta name="description"
+        content="Something amazing is coming soon. Stay tuned for updates on our upcoming project.">
     
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Coming Soon | Ravi Sardhara">
+    <meta property="og:description"
+        content="Something amazing is coming soon. Stay tuned for updates on our upcoming project.">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Coming Soon | Ravi Sardhara">
+    <meta name="twitter:description"
+        content="Something amazing is coming soon. Stay tuned for updates on our upcoming project.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --primary-green: #8cff2e;
+            --text-white: #fff;
+            --text-gray: #2f2f2f;
+            --text-dark: #111;
+            --background-light: #f8f8f8;
+            --background-dark: #0a0a0a;
+            --border-light: rgba(0, 0, 0, 0.1);
+        }
+
+        body {
+            font-family: 'Manrope', sans-serif;
+            background: var(--background-light);
+            color: var(--text-dark);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            position: relative;
+            overflow: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            /* bottom: 0;
+            background-image: r
+                linear-gradient(45deg, transparent 40%, rgba(140, 255, 46, 0.03) 50%, transparent 60%),
+                linear-gradient(-45deg, transparent 40%, rgba(47, 47, 47, 0.02) 50%, transparent 60%),
+                linear-gradient(90deg, transparent 45%, rgba(140, 255, 46, 0.05) 50%, transparent 55%),
+                linear-gradient(0deg, transparent 45%, rgba(17, 17, 17, 0.02) 50%, transparent 55%);
+            background-size: 200px 200px, 300px 300px, 150px 150px, 250px 250px;
+            background-position: 0 0, 100px 100px, 50px 150px, 150px 50px; */
+            animation: moveLines 20s linear infinite;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        @keyframes moveLines {
+            0% {
+                background-position: 0 0, 100px 100px, 50px 150px, 150px 50px;
+            }
+            100% {
+                background-position: 200px 200px, 300px 300px, 200px 300px, 400px 250px;
+            }
+        }
+
+        .container {
+            max-width: 750px;
+            width: 100%;
+            text-align: center;
+            animation: fadeInUp 0.8s ease-out;
+            position: relative;
+            z-index: 1;
+        }
+
+        .container::before,
+        .container::after {
+            content: '';
+            position: absolute;
+            width: 1px;
+            background: linear-gradient(to bottom, transparent, rgba(140, 255, 46, 0.3), transparent);
+            animation: floatVertical 8s ease-in-out infinite;
+            z-index: -1;
+        }
+
+        .container::before {
+            height: 300px;
+            left: -50px;
+            top: 50px;
+            animation-delay: -2s;
+        }
+
+        .container::after {
+            height: 200px;
+            right: -30px;
+            top: 100px;
+            animation-delay: -4s;
+        }
+
+        @keyframes floatVertical {
+            0%, 100% {
+                transform: translateY(0px);
+                opacity: 0.3;
+            }
+            50% {
+                transform: translateY(-20px);
+                opacity: 0.6;
+            }
+        }
+        
+        
+        /* Background Decorative SVGs */
+        .bg-decorations {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            pointer-events: none;
+            z-index: -1;
+            overflow: hidden;
+        }
+        
+        .bg-svg {
+            position: absolute;
+            opacity: 1;
+        }
+        
+        .bg-svg-1 {
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            animation: float 25s ease-in-out infinite;
+        }
+        
+        .bg-svg-2 {
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            animation: float 20s ease-in-out infinite reverse;
+        }
+        
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0px) rotate(0deg);
+            }
+            50% {
+                transform: translateY(-20px) rotate(5deg);
+            }
+        }
+        
+        .floating-shapes {
+            animation: breathe 15s ease-in-out infinite;
+        }
+        
+        @keyframes breathe {
+            0%, 100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+        }
+
+        .svgContainer svg {
+            display: block;
+            color: black;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 40px;
+            gap: 15px;
+        }
+
+        .logo-svg {
+            width: 45px;
+            height: 45px;
+            transition: transform 0.3s ease;
+        }
+        
+        .logo-svg:hover {
+            transform: scale(1.05) rotate(5deg);
+        }
+
+        .logo-text {
+            font-size: 26px;
+            font-weight: 700;
+            color: var(--text-gray);
+            letter-spacing: -0.02em;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .main-heading {
+            font-size: clamp(48px, 8vw, 80px);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 24px;
+            padding-bottom: 10px ;
+            letter-spacing: -0.04em;
+            background: linear-gradient(135deg, var(--text-dark) 0%, var(--text-gray) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            position: relative;
+        }
+
+        .main-heading::before,
+        .main-heading::after {
+            content: '';
+            position: absolute;
+            width: 60px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(140, 255, 46, 0.5), transparent);
+            top: 50%;
+            animation: expandContract 6s ease-in-out infinite;
+        }
+
+        .main-heading::before {
+            left: -80px;
+            animation-delay: 0s;
+        }
+
+        .main-heading::after {
+            right: -80px;
+            animation-delay: 3s;
+        }
+
+        @keyframes expandContract {
+            0%, 100% {
+                width: 60px;
+                opacity: 0.3;
+            }
+            50% {
+                width: 100px;
+                opacity: 0.7;
+            }
+        }
+
+        .subtitle {
+            font-size: 20px;
+            font-weight: 500;
+            color: var(--text-gray);
+            margin-bottom: 50px;
+            line-height: 1.4;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .notify-form {
+            max-width: 400px;
+            margin: 0 auto 40px;
+        }
+
+        .input-group {
+            display: flex;
+            background: white;
+            border-radius: 12px;
+            padding: 4px;
+            box-shadow: 0px 0.6px 0.6px -1.25px rgba(0, 0, 0, 0.26),
+                        0px 2.3px 2.3px -2.5px rgba(0, 0, 0, 0.23),
+                        0px 10px 10px -3.75px rgba(0, 0, 0, 0.09);
+            gap: 4px;
+        }
+
+        .email-input {
+            flex: 1;
+            border: none;
+            padding: 16px 20px;
+            font-size: 16px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+            background: transparent;
+            color: var(--text-dark);
+            border-radius: 8px;
+            outline: none;
+        }
+
+        .email-input::placeholder {
+            color: var(--text-gray);
+            opacity: 0.7;
+        }
+
+        .notify-button {
+            background: var(--background-dark);
+            color: var(--text-white);
+            border: none;
+            padding: 16px 24px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            font-family: 'Roboto', sans-serif;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .notify-button:hover {
+            background: var(--text-dark);
+            transform: translateY(-2px);
+        }
+
+        .notify-button:active {
+            transform: translateY(0);
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            margin-top: 40px;
+        }
+
+        .social-link {
+            width: 48px;
+            height: 48px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-gray);
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-shadow: 0px 0.6px 0.6px -1.25px rgba(0, 0, 0, 0.26),
+                        0px 2.3px 2.3px -2.5px rgba(0, 0, 0, 0.23),
+                        0px 10px 10px -3.75px rgba(0, 0, 0, 0.09);
+        }
+
+        .social-link:hover {
+            background: var(--primary-green);
+            color: var(--text-dark);
+            transform: translateY(-4px);
+        }
+
+        .footer-text {
+            margin-top: 60px;
+            font-size: 14px;
+            color: var(--text-gray);
+            opacity: 0.7;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.7;
+            }
+        }
+
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .input-group {
+                flex-direction: column;
+            }
+            
+            .notify-button {
+                width: 100%;
+                margin-top: 8px;
+            }
+            
+            .social-links {
+                gap: 12px;
+            }
+            
+            .social-link {
+                width: 44px;
+                height: 44px;
+            }
+
+            .main-heading::before,
+            .main-heading::after {
+                display: none;
+            }
+
+            .container::before,
+            .container::after {
+                display: none;
+            }
+
+            body::before {
+                background-size: 150px 150px, 200px 200px, 100px 100px, 180px 180px;
+            }
+            
+            .bg-svg-1 {
+                width: 100vw;
+                height: 100vh;
+                left: 0;
+                top: 0;
+            }
+            
+            .bg-svg-2 {
+                width: 100vw;
+                height: 100vh;
+                right: 0;
+                top: 0;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .logo {
+                margin-bottom: 30px;
+            }
+            
+            .subtitle {
+                font-size: 18px;
+                margin-bottom: 40px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Logo -->
+        <div class="logo">
+            <!-- Simple Two-Color SVG Logo -->
+            <svg class="logo-svg" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <!-- Black background -->
+                <rect x="0" y="0" width="40" height="40" rx="8" ry="8" 
+                      fill="var(--text-dark)"/>
+                        
+                <!-- Green diamond with rounded corners in center -->
+                <rect x="10" y="10" width="20" height="20" rx="4" ry="4" 
+                      fill="var(--primary-green)" 
+                      transform="rotate(45 20 20)"/>
+            </svg>
+            <div class="logo-text">Ravi Sardhara</div>
+        </div>
+
+        <!-- Main Content -->
+        <h1 class="main-heading">Coming Soon</h1>
+        <p class="subtitle">I'm working on something amazing. Get ready for a new experience that will transform how you think about web development.</p>
+
+        <!-- Email Notification -->
+        <form class="notify-form" id="notifyForm">
+            <div class="input-group">
+                <input type="email" class="email-input" placeholder="Enter your email address" required>
+                <button type="submit" class="notify-button">Notify Me</button>
+            </div>
+        </form>
+<!-- Decorative Background SVGs -->
+        <div class="bg-decorations">
+            <!-- Geometric Pattern SVG -->
+            <svg class="bg-svg bg-svg-1" width="100%" height="100%" viewBox="0 0 1920 1080" fill="none">
+                <defs>
+                    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#8cff2e;stop-opacity:0.4" />
+                        <stop offset="100%" style="stop-color:#8cff2e;stop-opacity:0.2" />
+                    </linearGradient>
+                    <linearGradient id="grayGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" style="stop-color:#2f2f2f;stop-opacity:0.2" />
+                        <stop offset="100%" style="stop-color:#2f2f2f;stop-opacity:0.1" />
+                    </linearGradient>
+                </defs>
+                <!-- Animated geometric shapes -->
+                <g class="floating-shapes">
+                    <!-- Large shapes spread across screen -->
+                    <polygon points="400,100 550,350 250,350" fill="url(#greenGradient)" opacity="0.8">
+                        <animateTransform attributeName="transform" type="rotate" 
+                            values="0 400 266;360 400 266" dur="25s" repeatCount="indefinite"/>
+                    </polygon>
+                    <circle cx="200" cy="200" r="80" fill="url(#grayGradient)" opacity="0.7">
+                        <animate attributeName="r" values="80;120;80" dur="8s" repeatCount="indefinite"/>
+                    </circle>
+                    <rect x="1400" y="200" width="120" height="120" fill="url(#greenGradient)" opacity="0.6" rx="10">
+                        <animateTransform attributeName="transform" type="rotate" 
+                            values="0 1460 260;45 1460 260;0 1460 260" dur="12s" repeatCount="indefinite"/>
+                    </rect>
+                    <polygon points="1600,500 1750,650 1600,800 1450,650" fill="url(#grayGradient)" opacity="0.7">
+                        <animateTransform attributeName="transform" type="scale" 
+                            values="1;1.3;1" dur="15s" repeatCount="indefinite"/>
+                    </polygon>
+                    <!-- Additional shapes for full coverage -->
+                    <circle cx="800" cy="100" r="60" fill="url(#greenGradient)" opacity="0.5">
+                        <animate attributeName="r" values="60;90;60" dur="10s" repeatCount="indefinite"/>
+                    </circle>
+                    <polygon points="1200,800 1350,950 1050,950" fill="url(#grayGradient)" opacity="0.6">
+                        <animateTransform attributeName="transform" type="rotate" 
+                            values="0 1200 900;-360 1200 900" dur="30s" repeatCount="indefinite"/>
+                    </polygon>
+                    <rect x="100" y="700" width="100" height="100" fill="url(#greenGradient)" opacity="0.5" rx="8">
+                        <animateTransform attributeName="transform" type="rotate" 
+                            values="0 150 750;90 150 750;0 150 750" dur="16s" repeatCount="indefinite"/>
+                    </rect>
+                    <!-- Flowing paths -->
+                    <path d="M200 600 Q 400 500 600 600 T 1000 600" stroke="rgba(140,255,46,0.6)" 
+                          stroke-width="4" fill="none" opacity="0.8">
+                        <animate attributeName="opacity" values="0.4;1;0.4" dur="6s" repeatCount="indefinite"/>
+                    </path>
+                    <path d="M1600 300 Q 1400 200 1200 300 T 800 300" stroke="rgba(47,47,47,0.4)" 
+                          stroke-width="3" fill="none" opacity="0.6">
+                        <animate attributeName="opacity" values="0.3;0.7;0.3" dur="8s" repeatCount="indefinite"/>
+                    </path>
+                </g>
+            </svg>
+            
+            <!-- Grid Pattern SVG -->
+            <svg class="bg-svg bg-svg-2" width="100%" height="100%" viewBox="0 0 1920 1080" fill="none">
+                <defs>
+                    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+                        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(140,255,46,0.4)" stroke-width="1"/>
+                    </pattern>
+                </defs>
+                <rect width="100%" height="100%" fill="url(#grid)" opacity="0.8">
+                    <animate attributeName="opacity" values="0.6;1;0.6" dur="15s" repeatCount="indefinite"/>
+                </rect>
+                <!-- Animated dots spread across screen -->
+                <g class="grid-dots">
+                    <circle cx="200" cy="200" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="600" cy="300" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="0.5s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="1000" cy="400" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="1400" cy="500" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="400" cy="700" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="800" cy="800" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="2.5s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="1200" cy="200" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="3s" repeatCount="indefinite"/>
+                    </circle>
+                    <circle cx="1600" cy="900" r="4" fill="#8cff2e" opacity="0.9">
+                        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" begin="3.5s" repeatCount="indefinite"/>
+                    </circle>
+                </g>
+            </svg>
+        </div>
+        <!-- Social Links -->
+        <div class="social-links">
+            <a href="#" class="social-link" aria-label="Twitter">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                </svg>
+            </a>
+            <a href="#" class="social-link" aria-label="LinkedIn">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                </svg>
+            </a>
+            <a href="#" class="social-link" aria-label="GitHub">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                </svg>
+            </a>
+            <a href="#" class="social-link" aria-label="Email">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+                </svg>
+            </a>
+        </div>
+
+        <!-- Footer -->
+        <p class="footer-text">© 2025 Ravi Sardhara. All rights reserved.</p>
+    </div>
+
+    <script>
+        // Email Form Handler
+        function initEmailForm() {
+            const form = document.getElementById('notifyForm');
+            const button = form.querySelector('.notify-button');
+            
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const email = form.querySelector('.email-input').value;
+                const originalText = button.textContent;
+                
+                // Simulate form submission
+                button.textContent = 'Submitting...';
+                button.disabled = true;
+                
+                setTimeout(() => {
+                    button.textContent = '✓ Subscribed!';
+                    button.style.background = '#8cff2e';
+                    button.style.color = '#111';
+                    
+                    setTimeout(() => {
+                        button.textContent = originalText;
+                        button.style.background = '';
+                        button.style.color = '';
+                        button.disabled = false;
+                        form.reset();
+                    }, 2000);
+                }, 1500);
+            });
+        }
+
+        // Initialize everything when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initEmailForm();
+        });
+
+        // Add some interactive hover effects
+        document.addEventListener('mousemove', function(e) {
+            const cards = document.querySelectorAll('.social-link');
+            
+            cards.forEach(card => {
+                const rect = card.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+                
+                const centerX = rect.width / 2;
+                const centerY = rect.height / 2;
+                
+                const deltaX = (x - centerX) / centerX;
+                const deltaY = (y - centerY) / centerY;
+                
+                if (x >= 0 && x <= rect.width && y >= 0 && y <= rect.height) {
+                    card.style.transform = `perspective(1000px) rotateY(${deltaX * 5}deg) rotateX(${-deltaY * 5}deg)`;
+                } else {
+                    card.style.transform = '';
+                }
+            });
+        });
+    </script>
 </body>
+
 </html>

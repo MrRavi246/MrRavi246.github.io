@@ -1,0 +1,600 @@
+Uri: https://events.framer.com/script?v=2
+File Name: G:\kishan\New folder\webstacked.framer.website\script
+Content Type: text/javascript
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\s\manrope\v20\xn7gYHE41ni1AdIRggexSg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSuXd.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\s\manrope\v20\xn7gYHE41ni1AdIRggixSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSuXd.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\s\manrope\v20\xn7gYHE41ni1AdIRggmxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\s\manrope\v20\xn7gYHE41ni1AdIRggOxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSuXd.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\s\manrope\v20\xn7gYHE41ni1AdIRggqxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSuXd.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\s\manrope\v20\xn7gYHE41ni1AdIRggSxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0IOtbnQnzdNBeRuFJKOjFOKVKCk.mp4
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\0IOtbnQnzdNBeRuFJKOjFOKVKCk.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: G:\kishan\New folder\webstacked.framer.website\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/2XmHmNiqxAeMjmrt2mjErJPzyk4.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\2XmHmNiqxAeMjmrt2mjErJPzyk4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\7ckekOZAa0J28C2T3IfYTvNDv5U.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\7ckekOZAa0J28C2T3IfYTvNDv5U-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg?scale-down-to=2048
+File Name: G:\kishan\New folder\webstacked.framer.website\images\7ckekOZAa0J28C2T3IfYTvNDv5U-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg?scale-down-to=4096
+File Name: G:\kishan\New folder\webstacked.framer.website\images\7ckekOZAa0J28C2T3IfYTvNDv5U-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9GwE95OcORk97cPwHG8bk2BR98.png
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9GwE95OcORk97cPwHG8bk2BR98.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9GwE95OcORk97cPwHG8bk2BR98.png?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9GwE95OcORk97cPwHG8bk2BR98-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9GwE95OcORk97cPwHG8bk2BR98.png?scale-down-to=512
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9GwE95OcORk97cPwHG8bk2BR98-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9qDsq0DztVzjhOGj5ER4Mpoku98.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9qDsq0DztVzjhOGj5ER4Mpoku98.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9qDsq0DztVzjhOGj5ER4Mpoku98.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9qDsq0DztVzjhOGj5ER4Mpoku98-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9qDsq0DztVzjhOGj5ER4Mpoku98.jpg?scale-down-to=2048
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9qDsq0DztVzjhOGj5ER4Mpoku98-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9qDsq0DztVzjhOGj5ER4Mpoku98.jpg?scale-down-to=4096
+File Name: G:\kishan\New folder\webstacked.framer.website\images\9qDsq0DztVzjhOGj5ER4Mpoku98-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axepF1LtSgXFCUPKabyiv1p0.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\axepF1LtSgXFCUPKabyiv1p0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axepF1LtSgXFCUPKabyiv1p0.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\axepF1LtSgXFCUPKabyiv1p0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axepF1LtSgXFCUPKabyiv1p0.jpg?scale-down-to=2048
+File Name: G:\kishan\New folder\webstacked.framer.website\images\axepF1LtSgXFCUPKabyiv1p0-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/axepF1LtSgXFCUPKabyiv1p0.jpg?scale-down-to=512
+File Name: G:\kishan\New folder\webstacked.framer.website\images\axepF1LtSgXFCUPKabyiv1p0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Byl5kcbjvrgxTZ9l9UrRem00.jpg?lossless=1
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Byl5kcbjvrgxTZ9l9UrRem00.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Byl5kcbjvrgxTZ9l9UrRem00.jpg?scale-down-to=1024&lossless=1
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Byl5kcbjvrgxTZ9l9UrRem00-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Byl5kcbjvrgxTZ9l9UrRem00.jpg?scale-down-to=512&lossless=1
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Byl5kcbjvrgxTZ9l9UrRem00-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Cw60tKtmS1dIG4c5tG24TKC8X5U.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Cw60tKtmS1dIG4c5tG24TKC8X5U.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/dxINbqxUfqPy2MToTFtj610i3I.png
+File Name: G:\kishan\New folder\webstacked.framer.website\images\dxINbqxUfqPy2MToTFtj610i3I.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dxINbqxUfqPy2MToTFtj610i3I.png?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\dxINbqxUfqPy2MToTFtj610i3I-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dxINbqxUfqPy2MToTFtj610i3I.png?scale-down-to=512
+File Name: G:\kishan\New folder\webstacked.framer.website\images\dxINbqxUfqPy2MToTFtj610i3I-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/eRo3BOgPs76bN50rC8jWPPQT8Bw.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\eRo3BOgPs76bN50rC8jWPPQT8Bw.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/gatZ91vVtwjt8oCPvgDEwlTwKg.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\gatZ91vVtwjt8oCPvgDEwlTwKg.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/GrbnTuBO37dvB4mFcnqbZja4swQ.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\GrbnTuBO37dvB4mFcnqbZja4swQ.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/Hf6jnmXgx83Hv4wqxOCx6V5zaU.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Hf6jnmXgx83Hv4wqxOCx6V5zaU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hf6jnmXgx83Hv4wqxOCx6V5zaU.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Hf6jnmXgx83Hv4wqxOCx6V5zaU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hf6jnmXgx83Hv4wqxOCx6V5zaU.jpg?scale-down-to=2048
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Hf6jnmXgx83Hv4wqxOCx6V5zaU-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hf6jnmXgx83Hv4wqxOCx6V5zaU.jpg?scale-down-to=4096
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Hf6jnmXgx83Hv4wqxOCx6V5zaU-4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Hf6jnmXgx83Hv4wqxOCx6V5zaU.jpg?scale-down-to=512
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Hf6jnmXgx83Hv4wqxOCx6V5zaU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HY2VSiXggNrSKJd6ktrKqaQbF3Q.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\HY2VSiXggNrSKJd6ktrKqaQbF3Q.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\iABb6ejla3A5ZzE4zgxiPqBaYHI-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg?scale-down-to=2048
+File Name: G:\kishan\New folder\webstacked.framer.website\images\iABb6ejla3A5ZzE4zgxiPqBaYHI-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg?scale-down-to=4096
+File Name: G:\kishan\New folder\webstacked.framer.website\images\iABb6ejla3A5ZzE4zgxiPqBaYHI-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/jriv7kCSLDNOVsQZrAH9ujDV4mM.png
+File Name: G:\kishan\New folder\webstacked.framer.website\images\jriv7kCSLDNOVsQZrAH9ujDV4mM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kIBiy2xM79Ac692vRBBeMc3YFw8.jpg?scale-down-to=1024&width=5184&height=3456
+File Name: G:\kishan\New folder\webstacked.framer.website\images\kIBiy2xM79Ac692vRBBeMc3YFw8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kIBiy2xM79Ac692vRBBeMc3YFw8.jpg?scale-down-to=2048&width=5184&height=3456
+File Name: G:\kishan\New folder\webstacked.framer.website\images\kIBiy2xM79Ac692vRBBeMc3YFw8.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kIBiy2xM79Ac692vRBBeMc3YFw8.jpg?scale-down-to=4096&width=5184&height=3456
+File Name: G:\kishan\New folder\webstacked.framer.website\images\kIBiy2xM79Ac692vRBBeMc3YFw8-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kIBiy2xM79Ac692vRBBeMc3YFw8.jpg?scale-down-to=512&width=5184&height=3456
+File Name: G:\kishan\New folder\webstacked.framer.website\images\kIBiy2xM79Ac692vRBBeMc3YFw8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kIBiy2xM79Ac692vRBBeMc3YFw8.jpg?width=5184&height=3456
+File Name: G:\kishan\New folder\webstacked.framer.website\images\kIBiy2xM79Ac692vRBBeMc3YFw8-4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kPRcnz2O0uWBZIRMtm2TrI560.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\kPRcnz2O0uWBZIRMtm2TrI560.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/LPWGL7rFF0pjhd6IZOMCT5H39XY.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\LPWGL7rFF0pjhd6IZOMCT5H39XY.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LPWGL7rFF0pjhd6IZOMCT5H39XY.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\LPWGL7rFF0pjhd6IZOMCT5H39XY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LPWGL7rFF0pjhd6IZOMCT5H39XY.jpg?scale-down-to=512
+File Name: G:\kishan\New folder\webstacked.framer.website\images\LPWGL7rFF0pjhd6IZOMCT5H39XY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/nr593SABZlC19HZOrgnV0sWc8A.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\nr593SABZlC19HZOrgnV0sWc8A.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/pB05kmC43Cy1Y9VOuwLRBmbNY.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\pB05kmC43Cy1Y9VOuwLRBmbNY.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Proq8O4Erg9VDxA9zFWOAOIyiE.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\Proq8O4Erg9VDxA9zFWOAOIyiE.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/r2lZfDe2i1mfmq9WB8AKkrumGd4.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\r2lZfDe2i1mfmq9WB8AKkrumGd4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/uRJWfrMlKd3LpBICu0c0WcnVw.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\uRJWfrMlKd3LpBICu0c0WcnVw.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/vGENnRvcoJNCm6OpsY973un0QA.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\vGENnRvcoJNCm6OpsY973un0QA.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/vp7xS8prFnDSeblnKOXvGKIxv4.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\vp7xS8prFnDSeblnKOXvGKIxv4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/vz6O7GKhWfiBX6OhwVjSM2tzHxk.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\vz6O7GKhWfiBX6OhwVjSM2tzHxk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vz6O7GKhWfiBX6OhwVjSM2tzHxk.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\vz6O7GKhWfiBX6OhwVjSM2tzHxk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vz6O7GKhWfiBX6OhwVjSM2tzHxk.jpg?scale-down-to=2048
+File Name: G:\kishan\New folder\webstacked.framer.website\images\vz6O7GKhWfiBX6OhwVjSM2tzHxk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vz6O7GKhWfiBX6OhwVjSM2tzHxk.jpg?scale-down-to=4096
+File Name: G:\kishan\New folder\webstacked.framer.website\images\vz6O7GKhWfiBX6OhwVjSM2tzHxk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/yXZXGejFIG7oXui2fMeSwj8d8M.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\yXZXGejFIG7oXui2fMeSwj8d8M.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/ZB6UoOHkk9rIorhxI6xU88xLt0.jpg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZB6UoOHkk9rIorhxI6xU88xLt0-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZB6UoOHkk9rIorhxI6xU88xLt0.jpg?lossless=1
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZB6UoOHkk9rIorhxI6xU88xLt0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZB6UoOHkk9rIorhxI6xU88xLt0.jpg?scale-down-to=1024
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZB6UoOHkk9rIorhxI6xU88xLt0-5.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZB6UoOHkk9rIorhxI6xU88xLt0.jpg?scale-down-to=1024&lossless=1
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZB6UoOHkk9rIorhxI6xU88xLt0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZB6UoOHkk9rIorhxI6xU88xLt0.jpg?scale-down-to=512
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZB6UoOHkk9rIorhxI6xU88xLt0-4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZB6UoOHkk9rIorhxI6xU88xLt0.jpg?scale-down-to=512&lossless=1
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZB6UoOHkk9rIorhxI6xU88xLt0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZuQkeup0NY3UX0jxWlqI4mTgR8.svg
+File Name: G:\kishan\New folder\webstacked.framer.website\images\ZuQkeup0NY3UX0jxWlqI4mTgR8.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/ai8RL88rZ.CSs0L3nW.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\ai8RL88rZ.CSs0L3nW.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/augiA20Il.itNTYoeo.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\augiA20Il.itNTYoeo.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/EekoeXach.B7_-614E.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\EekoeXach.B7_-614E.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/Ef9x12Hcq.CT9lvPm0.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\Ef9x12Hcq.CT9lvPm0.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/fK9I0Vp8p.DioBqgeH.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\fK9I0Vp8p.DioBqgeH.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/framer.DIFZ6kAs.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\framer.DIFZ6kAs.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/gCFEoiYTA83fNMk_c6cRPjDcOepNRaA9Z0SEOmfY4hA.CB9yQnVf.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\gCFEoiYTA83fNMk_c6cRPjDcOepNRaA9Z0SEOmfY4hA.CB9yQnVf.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/KWv0yVNysp7VBAuem-QXXT3VyIAxRNz4BHWjMfc6-XY.BQGOq7kB.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\KWv0yVNysp7VBAuem-QXXT3VyIAxRNz4BHWjMfc6-XY.BQGOq7kB.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/lWhI6GOUT.ASyhL0mI.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\lWhI6GOUT.ASyhL0mI.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/mmwG8XOGm.Df_YloVq.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\mmwG8XOGm.Df_YloVq.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/MOlsHb0Ky.CGhn1C2c.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\MOlsHb0Ky.CGhn1C2c.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/motion.2G0YkmrV.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\motion.2G0YkmrV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/pBgyzf6ze.UtXlu7jP.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\pBgyzf6ze.UtXlu7jP.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/pGKqFelCS.BsM9OIs3.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\pGKqFelCS.BsM9OIs3.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/PteuJSaeUXhEFuZrVuQtwnu9p4Pc7Tnx3hSEtAOigRI.B5GrenuX.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\PteuJSaeUXhEFuZrVuQtwnu9p4Pc7Tnx3hSEtAOigRI.B5GrenuX.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/qOQe0xwFx.BGKnqCZL.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\qOQe0xwFx.BGKnqCZL.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/QUcMxT7nj.Cgkwz1S6.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\QUcMxT7nj.Cgkwz1S6.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/react.BtBGATcY.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\react.BtBGATcY.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/rKEhgK_iS.C0lWkeRy.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\rKEhgK_iS.C0lWkeRy.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/rolldown-runtime.B3Hfx2tR.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\rolldown-runtime.B3Hfx2tR.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/script_main.CHv_Cwd5.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\script_main.CHv_Cwd5.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/shared-lib.BuBCmQXY.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\shared-lib.BuBCmQXY.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/StwJJWChQ.Rq12uL8x.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\StwJJWChQ.Rq12uL8x.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/uIKGGz_DG.BAL7xbwT.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\uIKGGz_DG.BAL7xbwT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/Vd2teR_Cg.CZtXcEut.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\Vd2teR_Cg.CZtXcEut.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/VnEcUSLXR.BIjOSeQX.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\VnEcUSLXR.BIjOSeQX.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/ZB77kTEoK.Dpl9v_KH.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\ZB77kTEoK.Dpl9v_KH.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7JX26KP5XRLWoCsL9QD2BE/_1bFvvcBghNXBO95mf8fTZtSzUOASSdyPqDwGcHh7pU.Ck-p3srk.mjs
+File Name: G:\kishan\New folder\webstacked.framer.website\sites\7JX26KP5XRLWoCsL9QD2BE\_1bFvvcBghNXBO95mf8fTZtSzUOASSdyPqDwGcHh7pU.Ck-p3srk.mjs
+Content Type: text/javascript
+
+Uri: https://webstacked.framer.website/
+File Name: G:\kishan\New folder\webstacked.framer.website\index.htm
+Content Type: text/html
+
+Uri: https://webstacked.framer.website/contact
+File Name: G:\kishan\New folder\webstacked.framer.website\contact.html
+Content Type: text/html
+
+Uri: https://webstacked.framer.website/projects
+File Name: G:\kishan\New folder\webstacked.framer.website\projects.html
+Content Type: text/html
+
+Uri: https://webstacked.framer.website/projects/echostream-entertainment
+File Name: G:\kishan\New folder\webstacked.framer.website\projects\echostream-entertainment.html
+Content Type: text/html
+
+Uri: https://webstacked.framer.website/projects/evergreen-solutions
+File Name: G:\kishan\New folder\webstacked.framer.website\projects\evergreen-solutions.html
+Content Type: text/html
+
+Uri: https://webstacked.framer.website/projects/pulsetech-innovations
+File Name: G:\kishan\New folder\webstacked.framer.website\projects\pulsetech-innovations.html
+Content Type: text/html
+
+Uri: https://webstacked.framer.website/projects/silverlynx-technologies
+File Name: G:\kishan\New folder\webstacked.framer.website\projects\silverlynx-technologies.html
+Content Type: text/html
+
